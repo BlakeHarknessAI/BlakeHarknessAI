@@ -1,11 +1,14 @@
 # Blake Harkness
 
-AI engineer based in Christchurch, New Zealand. I build practical AI automation for New Zealand businesses.
+AI engineer based in Christchurch, New Zealand. Founder of [Harkness AI](https://www.harknessai.nz/) and [Young Kiwis in AI](https://www.youngkiwisai.nz/).
 
-- Founder of **[Harkness AI](https://harknessai.nz)**, an AI consultancy that has worked with 30+ New Zealand businesses on automation, custom tooling and AI adoption.
-- Founder of **Young Kiwis in AI (YKIA)**, a community of around 300 young New Zealanders in AI and tech, running monthly meetups out of Christchurch.
+Full bio, speaking history and press: [blakeharkness.com](https://www.blakeharkness.com/)
+
+- **[Harkness AI](https://www.harknessai.nz/)** is an AI consultancy in Christchurch. It sets up Claude and ChatGPT for New Zealand businesses, trains their teams, connects Claude to tools like Xero and builds custom AI. 50+ NZ businesses helped, 5.0 from 22 Google reviews, OpenAI Select Partner.
+- **[Young Kiwis in AI (YKIA)](https://www.youngkiwisai.nz/)** is a community of 350+ young New Zealanders in AI, with meetups in six cities and a [national conference](https://www.youngkiwisai.nz/conference) in Auckland on 12 February 2027.
 - Fractional AI Engineer at Patersons, building internal SaaS tools and automations.
-- Workstream lead in the AI Forum NZ AEC working group, and host of its webinar series, contributing to the [Living Whitepaper](https://livingwhitepaper.com) on AI in architecture, engineering and construction.
+- Organiser of the AI Forum NZ AEC working group's webinar series, contributing to the [Living Whitepaper](https://livingwhitepaper.com) on AI in architecture, engineering and construction. Member of the Engineering New Zealand AI Advisory Group.
+- Rising AI Star finalist at the Aotearoa AI Awards, 2025 and 2026.
 
 ## Background
 
@@ -25,10 +28,13 @@ Most client work lives in private repositories under [@Harkness-AI](https://gith
 
 ## Writing and speaking
 
-I publish a monthly AI briefing newsletter, write guest columns on AI for New Zealand business, and speak at events on practical AI adoption.
+I have given 35+ talks on practical AI to more than 900 people, from conference keynotes to hands-on Claude and MCP workshops. Talk log and booking: [blakeharkness.com/speaking](https://www.blakeharkness.com/speaking).
+
+I also publish free AI videos on [YouTube](https://www.youtube.com/@Blake-Harkness) (200+ so far), a monthly AI briefing newsletter, and guest columns on AI for New Zealand business.
 
 ## Contact
 
-- Website: [harknessai.nz](https://harknessai.nz)
+- Harkness AI: [harknessai.nz](https://www.harknessai.nz/)
+- Personal site: [blakeharkness.com](https://www.blakeharkness.com/)
 - Email: blake@harknessai.nz
-- LinkedIn: [blake-harkness](https://www.linkedin.com/in/blake-harkness)
+- LinkedIn: [blake-harkness](https://www.linkedin.com/in/blake-harkness/)
